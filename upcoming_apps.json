@@ -23,4 +23,12 @@
     "bgHex": "#1B5E20",
     "targetUrl": "https://example.com/tax"
   }
+  {
+    "title": "Meta Calculator India",
+    "description": "Automated tax computations for Old vs New Regimes.",
+    "releaseDate": "Jan 2027",
+    "buttonText": "Learn More",
+    "bgHex": "#1B5E20",
+    "targetUrl": "https://example.com/tax"
+  }
 ]
