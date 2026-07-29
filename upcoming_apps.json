@@ -5,7 +5,7 @@
     "releaseDate": "Q4 2026",
     "buttonText": "Notify Me",
     "bgHex": "#4A148C",
-    "targetUrl": "https://example.com/ai-planner"
+    "targetUrl": "https://github.com"
   },
   {
     "title": "Investment Tracker",
@@ -13,7 +13,7 @@
     "releaseDate": "Coming Soon",
     "buttonText": "Pre-Register",
     "bgHex": "#0D47A1",
-    "targetUrl": "https://example.com/investments"
+    "targetUrl": "https://github.com"
   },
   {
     "title": "Tax Calculator India",
@@ -21,14 +21,6 @@
     "releaseDate": "Jan 2027",
     "buttonText": "Learn More",
     "bgHex": "#1B5E20",
-    "targetUrl": "https://example.com/tax"
-  }
-  {
-    "title": "Meta Calculator India",
-    "description": "Automated tax computations for Old vs New Regimes.",
-    "releaseDate": "Jan 2027",
-    "buttonText": "Learn More",
-    "bgHex": "#1B5E20",
-    "targetUrl": "https://example.com/tax"
+    "targetUrl": "https://github.com"
   }
 ]
