@@ -1,0 +1,26 @@
+[
+  {
+    "title": "AI Budget Planner",
+    "description": "Smart AI recommendations to optimize monthly expenditure.",
+    "releaseDate": "Q4 2026",
+    "buttonText": "Notify Me",
+    "bgHex": "#4A148C",
+    "targetUrl": "https://example.com/ai-planner"
+  },
+  {
+    "title": "Investment Tracker",
+    "description": "Track stocks, mutual funds, and FD returns in one place.",
+    "releaseDate": "Coming Soon",
+    "buttonText": "Pre-Register",
+    "bgHex": "#0D47A1",
+    "targetUrl": "https://example.com/investments"
+  },
+  {
+    "title": "Tax Calculator India",
+    "description": "Automated tax computations for Old vs New Regimes.",
+    "releaseDate": "Jan 2027",
+    "buttonText": "Learn More",
+    "bgHex": "#1B5E20",
+    "targetUrl": "https://example.com/tax"
+  }
+]
