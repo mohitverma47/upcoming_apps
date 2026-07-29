@@ -6,21 +6,5 @@
     "buttonText": "Notify Me",
     "bgHex": "#4A148C",
     "targetUrl": "https://github.com"
-  },
-  {
-    "title": "Investment Tracker",
-    "description": "Track stocks, mutual funds, and FD returns in one place.",
-    "releaseDate": "Coming Soon",
-    "buttonText": "Pre-Register",
-    "bgHex": "#0D47A1",
-    "targetUrl": "https://github.com"
-  },
-  {
-    "title": "Tax Calculator India",
-    "description": "Automated tax computations for Old vs New Regimes.",
-    "releaseDate": "Jan 2027",
-    "buttonText": "Learn More",
-    "bgHex": "#1B5E20",
-    "targetUrl": "https://github.com"
   }
 ]
