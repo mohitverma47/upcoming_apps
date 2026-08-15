@@ -5,14 +5,18 @@
     "releaseDate": "Q4 2026",
     "buttonText": "Notify Me",
     "bgHex": "#4A148C",
-    "targetUrl": "https://github.com"
+    "targetUrl": "https://github.com",
+    "imageUrl": "https://www.iamtac.com/logo-iamtac.png",
+    "videoUrl": "https://www.youtube.com/watch?v=8uemJeXa8VE&t=2s"
   },
   {
-    "title": "OMOO I Am Tac",
-    "description": "Smart AI recommendations to optimize monthly expenditure.",
-    "releaseDate": "Q4 2026",
-    "buttonText": "Notify Me",
-    "bgHex": "#4A148C",
-    "targetUrl": "https://github.com"
+    "title": "Budget Insights",
+    "description": "Charts and monthly trends built from your existing entries.",
+    "releaseDate": "Q1 2027",
+    "buttonText": "Learn More",
+    "bgHex": "#157A52",
+    "targetUrl": "https://github.com",
+    "imageUrl": "https://www.iamtac.com/logo-iamtac.png",
+    "videoUrl": "https://www.youtube.com/watch?v=8uemJeXa8VE&t=2s"
   }
 ]
